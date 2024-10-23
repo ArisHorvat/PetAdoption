@@ -1,0 +1,4 @@
+C:/Users/horva/Documents/GitHub/oop-a10-HorvatAris/cmake-build-debug/CMakeFiles/oop-a10-HorvatAris.dir
+C:/Users/horva/Documents/GitHub/oop-a10-HorvatAris/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/horva/Documents/GitHub/oop-a10-HorvatAris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/horva/Documents/GitHub/oop-a10-HorvatAris/cmake-build-debug/CMakeFiles/oop-a10-HorvatAris_autogen.dir

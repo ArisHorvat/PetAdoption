@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/oop-a10-HorvatAris_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/oop-a10-HorvatAris_autogen.dir/ParseCache.txt"
+  "oop-a10-HorvatAris_autogen"
+  "CMakeFiles/oop-a10-HorvatAris.dir/action/Action.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/action/Action.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/domain/Dog.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/domain/Dog.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/gui/AdoptionList.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/gui/AdoptionList.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/gui/listw.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/gui/listw.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/gui/mainw.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/gui/mainw.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/main.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/main.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/oop-a10-HorvatAris_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/oop-a10-HorvatAris_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/repo/AdminRepo.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/repo/AdminRepo.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/repo/CSVUserRepo.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/repo/CSVUserRepo.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/repo/HTMLUserRepo.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/repo/HTMLUserRepo.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/repo/UserRepo.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/repo/UserRepo.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/services/Services.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/services/Services.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/validators/exceptions.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/validators/exceptions.cpp.obj.d"
+  "CMakeFiles/oop-a10-HorvatAris.dir/validators/validator.cpp.obj"
+  "CMakeFiles/oop-a10-HorvatAris.dir/validators/validator.cpp.obj.d"
+  "liboop-a10-HorvatAris.dll.a"
+  "oop-a10-HorvatAris.exe"
+  "oop-a10-HorvatAris.exe.manifest"
+  "oop-a10-HorvatAris.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/oop-a10-HorvatAris.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

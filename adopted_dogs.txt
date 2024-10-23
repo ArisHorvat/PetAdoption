@@ -1,0 +1,3 @@
+boston terrier,bailey,3,https://www.dogsindepth.com/nonsporting_dog_breeds/boston_terrier.html
+french bulldog,pepi,8,https://www.dogsindepth.com/nonsporting_dog_breeds/french_bulldog.html
+boxer,rocky,11,https://www.dogsindepth.com/working_dog_breeds/boxer.html

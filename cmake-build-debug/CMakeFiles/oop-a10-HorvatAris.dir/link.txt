@@ -1,0 +1,3 @@
+"C:\Users\horva\Documents\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\oop-a10-HorvatAris.dir/objects.a
+C:\Users\horva\DOCUME~1\CLION2~1.4\bin\mingw\bin\ar.exe qc CMakeFiles\oop-a10-HorvatAris.dir/objects.a @CMakeFiles\oop-a10-HorvatAris.dir\objects1.rsp
+C:\Users\horva\DOCUME~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\oop-a10-HorvatAris.dir/objects.a -Wl,--no-whole-archive -o oop-a10-HorvatAris.exe -Wl,--out-implib,liboop-a10-HorvatAris.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\oop-a10-HorvatAris.dir\linkLibs.rsp

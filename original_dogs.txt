@@ -1,0 +1,10 @@
+boston terrier,bailey,3,https://www.dogsindepth.com/nonsporting_dog_breeds/boston_terrier.html
+french bulldog,pepi,8,https://www.dogsindepth.com/nonsporting_dog_breeds/french_bulldog.html
+mastiff,beau,10,https://www.dogsindepth.com/working_dog_breeds/mastiff.html
+mastiff,bella,9,https://www.dogsindepth.com/working_dog_breeds/mastiff.html
+dachshund,sausage,5,https://www.dogsindepth.com/hound_dog_breeds/dachshund.html
+boxer,rocky,11,https://www.dogsindepth.com/working_dog_breeds/boxer.html
+chow chow,kyra,1,https://www.dogsindepth.com/nonsporting_dog_breeds/chow_chow.html
+pomeranian,daisy,5,https://www.dogsindepth.com/toy_dog_breeds/pomeranian.html
+poodle,peach,6,https://www.dogsindepth.com/nonsporting_dog_breeds/poodle.html
+pointer,hunter,11,https://www.dogsindepth.com/sporting_dog_breeds/pointer.html
