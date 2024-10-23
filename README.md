@@ -1,19 +1,31 @@
-# Assignment 10
+# 🦮Pet Adoption App
 
-## Requirements
-1. Add multiple *undo* and *redo* functionality for the `add`, `remove`, and `update` operations. Implement this functionality using inheritance and polymorphism. You will have **Undo** and **Redo** buttons on the GUI, as well as a key combination to undo and redo the operations (e.g. `Ctrl+Z`, `Ctrl+Y`).
+Welcome to the **Pet Adoption App**! This application is designed to facilitate the adoption of dogs, providing an intuitive interface for both administrators and users. The app allows users to browse available pets and enables administrators to manage the pet database effectively.
 
-2. Show the contents of the `adoption list` / `movie watch list` / `shopping basket` / `tutorial watch list` using a table view. You must use the [Qt View/Model](https://doc.qt.io/qt-6/modelview.html) components (`QTableView`). Create your own model – a class which inherits from [`QAbstractTableModel`](https://doc.qt.io/qt-6/qabstracttablemodel.html). This window will be opened from your GUI's main window.
+## Features
 
-<!--
-## Bonus Possibility [0.1p]
-Add multiple *undo* and *redo* functionality for the `adoption list` / `movie watch list` / `shopping basket` / `tutorial watch list`. This will be tested through the application's GUI.
+### User Accounts
+- **Browse Pets**: Users can view a list of available dogs, including their breed, name, and age.
+- **Adopt a Dog**: Users can adopt a dog with a simple button click.
+- **Navigation**: Users can easily navigate to the next available dog or view a list of their adopted pets.
+- **Filter Functionality**: Users can filter pets based on breed and age using input fields. The app displays pets that match the specified criteria.
 
+### Admin Accounts
+- **Pet Management**: Administrators have access to a comprehensive table containing all registered pets.
+- **Operations**: Admins can add, update, and remove pets from the database.
+- **Undo/Redo Functionality**: Easily revert or redo the latest actions for managing pets in the database.
 
-## Bonus Possibility [0.1p]
-Use [custom Qt delegates](https://doc.qt.io/qt-6/qtwidgets-itemviews-stardelegate-example.html). In one of the columns of the Qt table view that shows the elements of the `adoption list` / **etc...**, display an image of the dog, trench coat or a play button that plays the movie trailer or the tutorial - depending on the problem statement. See the example images below.
+## Implementation
 
-![image](https://user-images.githubusercontent.com/25611695/119180503-0bfef700-ba79-11eb-86ae-3a42d41bb437.png)
-![image](https://user-images.githubusercontent.com/25611695/119180582-2507a800-ba79-11eb-921c-22f64a05522b.png)
+- **Layered Architecture**: The application is structured in layers, promoting separation of concerns and maintainability.
+- **Graphical User Interface (GUI)**: Developed using **Qt**, allowing seamless switching between admin and user functionalities through tabs.
+- **Repository Management**: The app supports multiple repository types, allowing for easy switching between in-memory, CSV, and HTML repositories. Depending on the selected repository, the list of adopted pets can be saved in:
+  - **TXT** format for in-memory storage
+  - **CSV** format for CSV repositories
+  - **HTML** format for HTML repositories
+- **Model-View Approach**: The adoption list for users is implemented using the Model-View method, ensuring a clear separation between data and presentation.
+- **Domain Model**: Custom classes have been defined to represent pets, including attributes and behaviors specific to the domain.
+- **Exception Handling**: Custom exception classes and validators are implemented to ensure data integrity and provide informative error messages.
+---
 
--->
+Thank you for checking out the **Pet Adoption App**! We hope you find the perfect furry friend!
